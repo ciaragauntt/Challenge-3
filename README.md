@@ -7,4 +7,5 @@
 * Link to deployed application: https://ciaragauntt.github.io/Password-Generator/
 
 * Screenshot of deployed application: 
-<img width="1280" alt="Screen Shot 2022-05-07 at 11 47 41 AM" src="https://user-images.githubusercontent.com/103298079/167272745-808bde59-7b98-4ee7-a5b4-7b76a532d49e.png">
+<img width="1280" alt="Screen Shot 2022-05-07 at 11 50 03 AM" src="https://user-images.githubusercontent.com/103298079/167272801-6176aadb-482a-4683-8ff5-89d68afca4c2.png">
+
